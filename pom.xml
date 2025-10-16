@@ -9,6 +9,7 @@
     <url>http://maven.apache.org</url>
     <modules>
         <module>mybatis-base-quick-01</module>
+        <module>mybatis-base-param-input-02</module>
     </modules>
 
     <dependencies>
