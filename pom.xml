@@ -10,6 +10,7 @@
     <modules>
         <module>mybatis-base-quick-01</module>
         <module>mybatis-base-param-input-02</module>
+        <module>mybatis-base-crud-04</module>
     </modules>
 
     <dependencies>
@@ -32,6 +33,12 @@
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter-api</artifactId>
             <version>5.3.1</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.28</version>
         </dependency>
     </dependencies>
 
